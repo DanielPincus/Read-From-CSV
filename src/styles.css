@@ -1,0 +1,20 @@
+GridPane {
+    -fx-background-color: lightcyan;
+    -fx-max-width: 250;
+    -fx-padding: 15;
+}
+
+GridPane Text {
+    -fx-font-size: 24pt;
+    -fx-fill: darkgreen;
+}
+
+HBox {
+    -fx-alignment: center;
+    -fx-padding: 20;
+}
+
+HBox Text {
+    -fx-font-size: 40pt;
+
+}
